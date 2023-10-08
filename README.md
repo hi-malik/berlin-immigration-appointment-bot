@@ -1,11 +1,4 @@
-# Berlin Ausländerbehörde Termin Bot
-
-A [Selenium](https://www.selenium.dev/) bot for obtaining an appointment at the [Landesamt für Einwanderung](https://otv.verwalt-berlin.de/ams/TerminBuchen) aka Ausänderbehörde in Berlin.
-
-I did not want to open source this as this makes it harder for the people without IT knowledge to obtain an appointment, but as there are already people who make a benefit of this (50 euro per appointment!) I thought it would be a good thing to make the tools available to everyone. This project is therefore a counter measurement against those people as well as the inability of the Ausländerbehörde to provide sufficient appointments.
-
-Take a look at the video [Hinter verschlossenen Türen – Mysterium Ausländerbehörde - ZDF Magazin Royale
-](https://www.youtube.com/watch?v=s7HrAGlni50) to find out more about the bad shape of this agency.
+# Berlin Immigration Termin Bot
 
 ## Setup
 
